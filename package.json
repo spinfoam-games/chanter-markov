@@ -1,0 +1,10 @@
+{
+  "name": "@chanter/markov",
+  "version": "0.1.0",
+  "description": "Markov chain tools",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "author": "Spinfoam Games",
+  "license": "MIT"
+}
